@@ -1,7 +1,7 @@
 package exporter
 
 import (
-	. "git.rakuten-it.com/DSD/jupyterhub_exporter/collector"
+	. "github.com/zeronewb/jupyterhub_exporter/collector"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
