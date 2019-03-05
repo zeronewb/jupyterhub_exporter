@@ -8,7 +8,7 @@ import (
 	"gopkg.in/alecthomas/kingpin.v2"
 	"net/http"
 
-	"github.com/del680202/jupyterhub_exporter/exporter"
+	"github.com/zeronewb/jupyterhub_exporter/exporter"
 )
 
 const (

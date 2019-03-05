@@ -51,8 +51,8 @@ $ source ~/.bashrc
 
 ```
 # Download source code
-$ env GIT_TERMINAL_PROMPT=1 go get github.com/del680202/jupyterhub_exporter
-$ cd $GOPATH/src/github.com/del680202/jupyterhub_exporter
+$ env GIT_TERMINAL_PROMPT=1 go get github.com/zeronewb/jupyterhub_exporter
+$ cd $GOPATH/src/github.com/zeronewb/jupyterhub_exporter
 
 # Install go building tool
 $ go get github.com/mitchellh/gox 
